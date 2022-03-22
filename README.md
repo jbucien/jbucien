@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jbucien, an undergraduate student at Oregon State University. I'm currently pursuing a BS in Computer Science.
-- 👀 I’m interested in: how to create effective technical documentation for software developers.
-- 🌱 I’m currently learning: Python
-- 💞️ I’m looking to collaborate on: any type of documentation project!
+- 👋 Hi, I’m @jbucien, an undergraduate student at Oregon State University. I'm currently pursuing a BS in Computer Science, with an expected graduation date of Spring 2023. This summer (2022), I will be a Technical Writing Intern at Salesforce.
+- 👀 I’m interested in: how to create effective technical documentation for software developers; utilizing knowledge of computer science principles in technical writing.
+- 🌱 I’m currently learning: Python, JavaScript, React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jennabucien/)
 
 <!---

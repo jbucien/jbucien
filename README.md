@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbucien, an undergraduate student at Oregon State University. I'm currently pursuing a BS in Computer Science, with an expected graduation date of Spring 2023. This summer (2022), I will be a Technical Writing Intern at Salesforce.
 - 👀 I’m interested in: how to create effective technical documentation for software developers; utilizing knowledge of computer science principles in technical writing.
-- 🌱 I’m currently learning: Python, JavaScript, React
+- 🌱 I’m currently learning: Python, C, JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jennabucien/)
 
 <!---
